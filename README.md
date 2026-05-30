@@ -2,8 +2,15 @@
 <h1 align="center">Lumina</h1>
 
 <p align="center">
-  <strong>A modern, animated, customizable frontend experience with widgets, Discord integration, and achievement support.</strong>
+  <em>Alpha v0.1</em>
 </p>
+
+<p align="center">
+  <strong>A modern, highly customizable frontend experience with widgets, Discord integration, and achievement support.</strong>
+</p>
+
+<p align="center"><img width="300" height="60" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/66416698-7308-4238-b51f-0727c47befed" />
+
 
 ---
 
@@ -28,4 +35,33 @@
 ---
 
 ## 🔧 Setup
-◈ Follow first time setup wizard after instal
+◈ Follow first time setup wizard after installing
+
+---
+
+## 🐞 Bugs & Feedback
+
+Lumina is currently in **Alpha v0.1**, so bugs, missing features, and unexpected issues may occur.
+
+ If you find a bug, have a suggestion, or want to request a feature, please share it through the feedback link or open an issue on GitHub.
+
+### Before Reporting a Bug
+
+Please include:
+
+- What happened
+- What you expected to happen
+- Steps to reproduce the issue
+- Screenshots or error messages, if possible
+- Your device, browser, or operating system
+
+### Disclaimer
+
+This project is still in early development. Features may change, break, or be removed in future updates.  
+
+---
+## 💖 Donations
+
+Donations are completely optional, but greatly appreciated.
+
+Lumina is free and open-source. Donating does not unlock paid features, priority access, or special advantages unless stated otherwise. All donations help support continued development, bug fixes, and future improvements.
