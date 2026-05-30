@@ -21,8 +21,10 @@
 ---
 
 ## 📦 Installation Guide
+◈ Download APK 
+◈ Install on device
 
-### 1. Clone the Repository
+---
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
+## 🔧 Setup
+◈ Follow first time setup wizard after instal
