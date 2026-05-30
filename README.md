@@ -42,7 +42,7 @@
 
 Lumina is currently in **Alpha v0.1**, so bugs, missing features, and unexpected issues may occur.
 
- If you find a bug, have a suggestion, or want to request a feature, please share it through the feedbacklink, join our discord or open an issue on GitHub.
+ If you find a bug, have a suggestion, or want to request a feature, please share it through the feedback link, join our discord or open an issue on GitHub.
 
  Feedback link: https://tally.so/r/J9MJMJ
 
