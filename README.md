@@ -46,16 +46,6 @@ Lumina is currently in **Alpha v0.1**, so bugs, missing features, and unexpected
 
  Feedback link: https://tally.so/r/J9MJMJ
 
-### Before Reporting a Bug
-
-Please include:
-
-- What happened
-- What you expected to happen
-- Steps to reproduce the issue
-- Screenshots or error messages, if possible
-- Your device, browser, or operating system
-
 ### Disclaimer
 
 This project is still in early development. Features may change, break, or be removed in future updates.  
