@@ -1,6 +1,5 @@
-<img width="940" height="307" alt="lumina banner 1" src="https://github.com/user-attachments/assets/8f30cf86-6af4-4795-b8ac-6ea1aad36968" />
 <h1 align="center">Lumina</h1>
-
+<img width="940" height="307" alt="lumina banner 1" src="https://github.com/user-attachments/assets/8f30cf86-6af4-4795-b8ac-6ea1aad36968" />
 <p align="center">
   <em>Alpha v0.1</em>
 </p>
@@ -43,7 +42,9 @@
 
 Lumina is currently in **Alpha v0.1**, so bugs, missing features, and unexpected issues may occur.
 
- If you find a bug, have a suggestion, or want to request a feature, please share it through the feedback link or open an issue on GitHub.
+ If you find a bug, have a suggestion, or want to request a feature, please share it through the feedbacklink, join our discord or open an issue on GitHub.
+
+ Feedback link: https://tally.so/r/J9MJMJ
 
 ### Before Reporting a Bug
 
