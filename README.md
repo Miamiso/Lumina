@@ -22,6 +22,7 @@
 
 ## 📦 Installation Guide
 ◈ Download APK 
+
 ◈ Install on device
 
 ---
