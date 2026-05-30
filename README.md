@@ -50,6 +50,9 @@ Lumina is currently in **Alpha v0.1**, so bugs, missing features, and unexpected
 
 This project is still in early development. Features may change, break, or be removed in future updates.  
 
+Default wallpaper: Photo by <a href="https://unsplash.com/@slusho_o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bojun Liu</a> on <a href="https://unsplash.com/photos/a-black-and-white-picture-of-an-object-in-space-rLcxFgmP55g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+
 ---
 ## 💖 Donations
 
