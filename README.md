@@ -24,6 +24,8 @@
 
 ◈ Hyper Customizable: Easily customize themes, colors, layouts, widgets, and music.
 
+<img width="1662" height="857" alt="AdobeExpress-customizationshowcase-ezgif com-crop (4)" src="https://github.com/user-attachments/assets/7ed6db30-fb0c-4ca1-be59-15e4cc911ad6" />
+
 ---
 
 ## 📦 Installation Guide
