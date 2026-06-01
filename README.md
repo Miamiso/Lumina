@@ -24,9 +24,7 @@
 
 ◈ Hyper Customizable: Easily customize themes, colors, layouts, widgets, and music.
 
-<img width="1662" height="857" alt="AdobeExpress-customizationshowcase-ezgif com-crop (4)" src="https://github.com/user-attachments/assets/7ed6db30-fb0c-4ca1-be59-15e4cc911ad6" />
-
----
+<img width="1714" height="1080" alt="Adobe Express - 0531(2)" src="https://github.com/user-attachments/assets/092901f9-420c-44a2-a296-d19961ebbcae" />
 
 ## 📦 Installation Guide
 ◈ Download APK 
