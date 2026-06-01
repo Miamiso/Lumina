@@ -8,6 +8,8 @@
   <strong>A modern, highly customizable frontend experience with widgets, Discord integration, and achievement support.</strong>
 </p>
 
+ <p align="center"> <em> Make your handheld yours!<em>
+
 <p align="center"><img width="300" height="60" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/66416698-7308-4238-b51f-0727c47befed" />
 
 
